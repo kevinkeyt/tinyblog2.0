@@ -10,7 +10,7 @@ The goal of the tiny blog project is to have a small simple blog engine that dev
 
 
 ## V1
-- Setup the base website
-- Add basic styling (bootstrap)
-- Add support for Tags and categories (http://tinyblog.com/programming) <- Category or tag support
-- Add support for url handling
+[x] Setup the base website
+[] Add basic styling (bootstrap)
+[] Add support for Tags and categories (http://tinyblog.com/programming) <- Category or tag support
+[] Add support for url handling
